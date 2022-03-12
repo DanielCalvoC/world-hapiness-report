@@ -1,1 +1,1 @@
-# world-hapiness-report
+# world-happiness-report
